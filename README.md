@@ -1,4 +1,4 @@
-<h1 align="center">Hi MySelf Nileshkumar Yadav</h1>
+<h1 align="center">MySelf Nileshkumar Yadav</h1>
 <h3 align="center">A Passionate Developer | Open-Source Contributor | Tech Enthusiast</h3>
 
 <p align="center">
